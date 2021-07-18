@@ -3,29 +3,9 @@ export default {
     ACCENT_COLOR: "#0366d6",
     SUPPORTED_DEVICES: [
         {
-            name: "Pixel 2",
-            model: "walleye",
-        },
-        {
-            name: "Pixel 2 XL",
-            model: "taimen",
-        },
-        {
-            name: "Pixel 4a 5G",
-            model: "bramble",
-        },
-        {
-            name: "Pixel 5",
-            model: "redfin",
-        },
-        {
-            name: "Pixel 4",
-            model: "flame",
-        },
-        {
-            name: "Pixel 4 XL",
-            model: "coral",
-        },
+            name: "Redmi Note 7",
+            model: "lavender",
+        }
     ],
     RELEASE_VARIANTS: {
         minimal: {
