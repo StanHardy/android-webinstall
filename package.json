@@ -12,8 +12,10 @@
         "@sentry/vue": "^6.1.0",
         "android-fastboot": "^1.0.7",
         "core-js": "^3.6.5",
+        "package.json": "^2.0.1",
         "vue": "^2.6.11",
-        "vuetify": "^2.4.0"
+        "vuetify": "^2.4.0",
+        "yarn": "^1.22.11"
     },
     "devDependencies": {
         "@vue/cli": "^4.5.11",

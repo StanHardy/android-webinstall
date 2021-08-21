@@ -1,11 +1,16 @@
 {
     "latest": {
-        "lavender": [
+        "msmnile": [
             {
-                "version": "4.2.1",
+                "version": "5.1.3",
                 "variant": "minimal",
-                "url": "https://github-releases-proxy.etahamad.workers.dev/device_xiaomi_lavender/v4.2.1/potato_lavender-11-20210710-dumaloo.v4.2.1+18.Crispy-factory.zip"
-            }
+                "url": "https://downloads.droidontime.com/dot11/guacamole/vanilla/dotOS-R-v5.1.3-guacamole-OFFICIAL-20210811-1404.zip"
+            },
+			{
+				"version": "5.1.3",
+				"variant": "gapps",
+				"url": "https://downloads.droidontime.com/dot11/guacamole/gapps/dotOS-R-v5.1.3-guacamole-GAPPS-20210811-1457.zip"
+			}
         ]
     }
 }

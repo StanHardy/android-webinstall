@@ -3,8 +3,8 @@ export default {
     ACCENT_COLOR: "#0366d6",
     SUPPORTED_DEVICES: [
         {
-            name: "Redmi Note 7",
-            model: "lavender",
+            name: "Oneplus 7 Pro",
+            model: "msmnile",
         }
     ],
     RELEASE_VARIANTS: {
