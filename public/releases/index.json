@@ -4,12 +4,12 @@
             {
                 "version": "5.1.3",
                 "variant": "minimal",
-                "url": "https://downloads.droidontime.com/dot11/guacamole/vanilla/dotOS-R-v5.1.3-guacamole-OFFICIAL-20210811-1404.zip"
+                "url": "https://github-releases-proxy.henkka22.workers.dev/dot-downloads/5.1.3/nongapps.zip"
             },
 			{
 				"version": "5.1.3",
 				"variant": "gapps",
-				"url": "https://downloads.droidontime.com/dot11/guacamole/gapps/dotOS-R-v5.1.3-guacamole-GAPPS-20210811-1457.zip"
+				"url": "https://github-releases-proxy.henkka22.workers.dev/dot-downloads/5.1.3/gapps.zip"
 			}
         ]
     }
