@@ -1,5 +1,5 @@
 const DEVICE_NAMES = {
-    lavender: "Redmi Note 7",
+    lavender: "Oneplus 7 Pro",
 };
 
 export function getDeviceName(device) {
